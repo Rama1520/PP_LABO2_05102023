@@ -1,0 +1,5 @@
+C:\Users\ignac\Desktop\Labo2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ignac\Desktop\Labo2\WindowsFormsApp1\obj\Debug\MiCalculadora.Form1.resources
+C:\Users\ignac\Desktop\Labo2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ignac\Desktop\Labo2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ignac\Desktop\Labo2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
